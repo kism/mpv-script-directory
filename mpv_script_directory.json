@@ -2982,5 +2982,31 @@
         "install_dir": "github/werman/noise-suppression-for-voice",
         "sharedrepo": false,
         "stars": 70943
+    },
+    "github:kism/mpvscripts/vlcaspectratio.lua": {
+        "name": "vlc-aspect-ratio",
+        "url": "https://raw.githubusercontent.com/kism/mpvscripts/main/scripts/vlcaspectratio.lua",
+        "type": "lua script",
+        "install": "git",
+        "receiving_url": "https://github.com/kism/mpvscripts",
+        "install_dir": "github/fbriere/mpv-scripts",
+        "scriptfiles": [
+            "scripts/vlcaspectratio.lua"
+        ],
+        "desc": "Implement the VLC aspect ratio hotkey: a",
+        "os": []
+    },
+	"github:kism/mpvscripts/vlccrop.lua": {
+        "name": "vlc-crop",
+        "url": "https://raw.githubusercontent.com/kism/mpvscripts/main/scripts/vlccrop.lua",
+        "type": "lua script",
+        "install": "git",
+        "receiving_url": "https://github.com/kism/mpvscripts",
+        "install_dir": "github/fbriere/mpv-scripts",
+        "scriptfiles": [
+            "scripts/vlccrop.lua"
+        ],
+        "desc": "Implement the VLC crop hotkey: c",
+        "os": []
     }
 }
